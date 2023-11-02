@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>GreenStyle.qss</file>
+        <file>GreenStyle/dagou.png</file>
+        <file>GreenStyle/sls_CheckBox_banXuanZhong.png</file>
+        <file>GreenStyle/sls_CheckBox_jinYong.png</file>
+        <file>GreenStyle/sls_CheckBox_weiXuanZhong.png</file>
+        <file>GreenStyle/sls_CheckBox_xuanZhong.png</file>
+        <file>GreenStyle/sls_comboBox.png</file>
+        <file>GreenStyle/sls_comboBox_Disable.png</file>
+        <file>GreenStyle/sls_down.png</file>
+        <file>GreenStyle/sls_down_Disable.png</file>
+        <file>GreenStyle/sls_down_hover.png</file>
+        <file>GreenStyle/sls_QTreeView_xiajiantou.png</file>
+        <file>GreenStyle/sls_QTreeView_xiajiantou_hover.png</file>
+        <file>GreenStyle/sls_QTreeView_youjiantou.png</file>
+        <file>GreenStyle/sls_QTreeView_youjiantou_hover.png</file>
+        <file>GreenStyle/sls_radioButton_off.png</file>
+        <file>GreenStyle/sls_radioButton_off_Disable.png</file>
+        <file>GreenStyle/sls_radioButton_on.png</file>
+        <file>GreenStyle/sls_radioButton_on_Disable.png</file>
+        <file>GreenStyle/sls_shangyi.png</file>
+        <file>GreenStyle/sls_shuangxianghengjiantou.png</file>
+        <file>GreenStyle/sls_shuangxiangshujiantou.png</file>
+        <file>GreenStyle/sls_up.png</file>
+        <file>GreenStyle/sls_up_Disable.png</file>
+        <file>GreenStyle/sls_up_hover.png</file>
+        <file>GreenStyle/sls_xiayi.png</file>
+        <file>GreenStyle/sls_youyi.png</file>
+        <file>GreenStyle/sls_zuoyi.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Main.ico</file>
+    </qresource>
+</RCC>
